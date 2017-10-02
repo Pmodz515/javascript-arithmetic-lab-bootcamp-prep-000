@@ -10,7 +10,7 @@ function multiply (a,b){
 function divide (a, b){
   return a / b;
 }
-var 817
+var number = 817
 function inc (n){
-  return n++
+  return number++
 }
