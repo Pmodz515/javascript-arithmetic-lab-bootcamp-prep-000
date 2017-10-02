@@ -19,6 +19,3 @@ function dec (a){
 function makeInt (a){
   return a
 }
-function makeint (a){
-return 0
-}
