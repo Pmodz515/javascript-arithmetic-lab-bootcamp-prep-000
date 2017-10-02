@@ -14,3 +14,6 @@ var number = 817
 function inc (a){
   return a+1
 }
+function dec (a){
+  return a-1
+}
