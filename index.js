@@ -1,0 +1,1 @@
+function number(a+b)
