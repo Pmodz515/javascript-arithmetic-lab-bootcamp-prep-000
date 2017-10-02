@@ -19,4 +19,3 @@ function dec (a){
 function makeInt (a){
   return a
 }
-function parseInt('2'10)
