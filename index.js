@@ -19,6 +19,4 @@ function dec (a){
 function makeInt (a){
   return a
 }
-function parseInt('a'b){
-  return a
-}
+function parseInt('a'10)
