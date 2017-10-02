@@ -1,1 +1,1 @@
-function number(a+b)
+function number(++)
