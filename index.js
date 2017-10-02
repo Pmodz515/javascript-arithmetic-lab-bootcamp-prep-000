@@ -1,1 +1,1 @@
-function number(++)
+var number = a
