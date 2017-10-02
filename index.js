@@ -1,2 +1,1 @@
-var number = a
-number++
+function add("a"+"b")
