@@ -21,5 +21,5 @@ function makeInt (a){
 }
 number = 10
 function parseFloat (a) {
-  return a 
+  return a
 }
