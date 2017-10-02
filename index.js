@@ -19,3 +19,7 @@ function dec (a){
 function makeInt (a){
   return a
 }
+var 10
+function makeint (a){
+  return a
+}
