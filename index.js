@@ -19,7 +19,6 @@ function dec (a){
 function makeInt (a){
   return a
 }
-parseInt (0,10)
 function makeint (a){
 return 0
 }
