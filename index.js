@@ -11,6 +11,6 @@ function divide (a, b){
   return a / b;
 }
 var number = 817
-function inc (n){
-  return number++
+function inc (a){
+  return a+1
 }
