@@ -12,8 +12,8 @@ function divide (a, b){
 }
 var number = 817
 function inc (a){
-  return a+1
+  return a++
 }
 function dec (a){
-  return a-1
+  return a--
 }
